@@ -6,7 +6,7 @@ char op;
 cout<<"Enter the operation you want to perform (+ , - , * , / ) "<<endl;
 cin>>op;
 float a,b;
-cout<<"Enter the first number(a)"<<endl;
+cout<<"Enter the number(a)"<<endl;
 cin>>a;
 cout<<"Enter the second number(b)"<<endl;
 cin>>b;
